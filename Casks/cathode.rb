@@ -1,6 +1,6 @@
 cask "cathode" do
-  version "0.5.1"
-  sha256 "49f8d6babfa7a3afa0728a97838851c09a5b2e757a27fdd9a8613195b7ffc680"
+  version "0.5.2"
+  sha256 "f8088714386dc6d72093bc5929adbef29e3aeeb44dd38c8b60bf8292c3d884f4"
 
   url "https://github.com/andunieee/cathode/releases/download/v#{version}/cathode-macos-arm64-v#{version}.zip"
   name "Cathode"
